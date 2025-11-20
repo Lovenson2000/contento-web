@@ -5,7 +5,7 @@ export default function PrivacyPolicy() {
         <div className="text-center mb-12 pb-8 border-b border-gray-200">
           <div className="flex items-center justify-center gap-3 mb-4">
             <img
-              src="src/assets/logo.png"
+              src="/assets/logo.png"
               alt="App Logo"
               className="w-10 h-10 sm:w-12 sm:h-12 rounded-2xl shadow-lg"
             />

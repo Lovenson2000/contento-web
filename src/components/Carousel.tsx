@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 
 const screenshots = [
-  "src/assets/saves.png",
-  "src/assets/notif.PNG",
-  "src/assets/add.png",
-  "src/assets/saves_2.png",
-  "src/assets/medium.jpeg",
-  "src/assets/reddit.png",
-  "src/assets/youtube.png",
+  "/assets/saves.png",
+  "/assets/notif.PNG",
+  "/assets/add.png",
+  "/assets/saves_2.png",
+  "/assets/medium.jpeg",
+  "/assets/reddit.png",
+  "/assets/youtube.png",
 ];
 
 export default function PhoneCarousel() {
