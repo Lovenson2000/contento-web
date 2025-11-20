@@ -5,7 +5,7 @@ import LogoHeader from "./components/Logo";
 
 export default function LandingPage() {
   return (
-    <div className="pb-8 md:pb-0 min-h-screen w-full bg-white overflow-x-hidden relative">
+    <div className="pb-16 md:pb-0 min-h-screen w-full bg-white overflow-x-hidden relative">
       <LogoHeader />
       <div
         className="min-h-screen mt-16 md:mt-0
